@@ -1,0 +1,6 @@
+/target
+result
+result-*
+/*.prst
+/gp50_bank_*.json
+.direnv/
